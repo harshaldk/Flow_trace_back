@@ -1,0 +1,5 @@
+Process1,Cnt,Week,Amount,Process2,Cnt,Week,Amount,Process3,Cnt,Week,Amount,Process4,Cnt,Week,Amount,Process5,Cnt,Week,Amount,Demand
+Sourcing,HUNGARY,1,533,Conditioning,HUNGARY,1,533,Treatment,SLOVENIA,6,533,Forwarding,SLOVENIA,12,533,Delivery,FRANCE,15,533,1
+Sourcing,AUSTRIA,1,1343,Conditioning,AUSTRIA,2,1343,Treatment,SLOVENIA,5,1343,Forwarding,FRANCE,9,1343,Delivery,FRANCE,20,1343,2
+,,,,,,,,,,,,Forwarding,FRANCE,9,1875,Delivery,SPAIN,23,1875,3
+Sourcing,AUSTRIA,1,113,Conditioning,AUSTRIA,2,113,Treatment,SLOVENIA,5,113,Forwarding,FRANCE,9,113,Delivery,PORTUGAL,23,113,4

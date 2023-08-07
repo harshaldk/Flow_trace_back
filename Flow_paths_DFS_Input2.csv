@@ -1,0 +1,5 @@
+Process1,Cnt,Week,Amount,Process2,Cnt,Week,Amount,Process3,Cnt,Week,Amount,Process4,Cnt,Week,Amount,Process5,Cnt,Week,Amount
+Source,AUSTRIA,1,1454,Conditioning,AUSTRIA,1,1454,Treatment,SLOVENIA,5,1454,Forwarding,CROATIA,14,1454,Delivery,CROATIA,21,1454
+Source,AUSTRIA,1,1454,Conditioning,AUSTRIA,1,1454,Treatment,SLOVENIA,5,1454,Forwarding,CROATIA,18,1454,Delivery,CROATIA,21,1454
+Source,AUSTRIA,1,768,Conditioning,AUSTRIA,1,768,Treatment,SLOVENIA,5,768,Forwarding,CROATIA,14,768,Delivery,BOSNIA-HERZ.,23,768
+Source,AUSTRIA,1,768,Conditioning,AUSTRIA,1,768,Treatment,SLOVENIA,5,768,Forwarding,CROATIA,18,768,Delivery,BOSNIA-HERZ.,23,768
